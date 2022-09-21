@@ -1,0 +1,12 @@
+---
+title: "Principle Component Analysis"
+author: "danjamison"
+date: "2022-09-21"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+In PCA.Rmd we will make a Principal components analysis of the famous iris data from Ronald Fisher.

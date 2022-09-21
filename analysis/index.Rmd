@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+This repository was created to assist my learning experience with GitHub and workflowr.
+
+My first R code at this project will be at this [https://github.com/danjamison/GSelection_Workflow](PCA.html)
